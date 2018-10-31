@@ -27,5 +27,5 @@ In this phase I have used the precious guide from other repository and I have in
 I have trained and have tested the code on my own dataset which have high accuracy near 93 percent.
 
 #### Thanks
-Thanks to Mr. @AminMozhgani for his devoted assistance through the project.
+Thanks to Mr. [AminMozhgani](https://github.com/AminMozhgani) for his devoted assistance through the project.
 
