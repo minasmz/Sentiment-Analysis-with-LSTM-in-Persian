@@ -6,7 +6,7 @@ Sentiment Analysis with LSTM in Persian
 In this repository, I have used LSTM for the prediction of whether people would like or dislike a product based on the previous comments on the Digikala site. I have scraped the data from Digikala and have labeled them based on the stars people who had bought the products gave to them. I have also used another label from the same website which indicates people suggest others to buy that product or not. because many of the comments are noisy and do not provide clean data for us and it is not such a reliable source by adding the second label to the data we can ensure higher accuracy of our training data.
 
 For label clarifications:\
-    (1) -> Indicates customers suggesting others to buy\ 
+    (1) -> Indicates customers suggesting others to buy   
     (2) -> Indicates otherwise\
     (3) -> Illusterates a neutral opinion about the product\
     (4) -> Customer has rate the product, but not suggested whether to buy it or not.\
