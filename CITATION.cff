@@ -1,0 +1,11 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Samizadeh"
+  given-names: "Mina"
+  orcid: "https://orcid.org/0000-0002-1082-966X"
+title: "Sentiment-Analysis-with-LSTM-in-Persian"
+version: 1.0.0
+doi: 10.5281/zenodo.6862064
+date-released: 2018-10-31
+url: "https://github.com/minasmz/Sentiment-Analysis-with-LSTM-in-Persian"
